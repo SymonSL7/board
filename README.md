@@ -9,8 +9,6 @@ Criando uma aplicação de boards de tarefas somente com o backend.
 
 ![Java](https://img.shields.io/badge/Java-0077B5?style=for-the-badge&logo=java&logoColor)
 
-![SQL](https://img.shields.io/badge/SQL-0077B5?style=for-the-badge&logo=sql&logoColor)
-
 ![Gradle](https://img.shields.io/badge/Gradle-0077B5?style=for-the-badge&logo=gradle&logoColor)
 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-0077B5?style=for-the-badge&logo=springboot&logoColor)
